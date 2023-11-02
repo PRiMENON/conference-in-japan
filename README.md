@@ -62,6 +62,8 @@ https://phpcon.php.gr.jp/
 
 ### RubyKaigi
 
+https://rubykaigi.org/
+
 * 初開催：2006年
 * 主催：Rubyコミュニティ
 
@@ -256,6 +258,8 @@ https://design-ship.jp/
 > 広がりすぎたデザインを接続する、日本最大級のデザインカンファレンス。
 
 ### PostgreSQL Conference Japan
+
+https://www.postgresql.jp/con
 
 * 初開催：2009年
 * 主催：特定非営利活動法人 日本PostgreSQLユーザ会
