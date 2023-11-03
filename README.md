@@ -72,7 +72,7 @@ https://rubykaigi.org/
 
 ### RubyWorld Conference
 
-https://rubyworld-conf.org/ja/
+https://2023.rubyworld-conf.org/ja/
 
 * 初開催：2009年
 * 主催：RubyWorld Conference開催実行委員会
