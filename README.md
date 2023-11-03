@@ -265,3 +265,31 @@ https://www.postgresql.jp/con
 * 主催：特定非営利活動法人 日本PostgreSQLユーザ会
 
 > 日本PostgreSQLユーザ会（JPUG）が主催する、PostgreSQL に関する総合カンファレンスです。
+
+### Woman Tech Terrance
+
+https://wtt.cyberagent.dev/
+
+* 初開催：
+* 主催：株式会社サイバーエージェント
+
+> 本カンファレンスでは「女性エンジニアが“長く自分らしく”働けることを応援する」をコンセプトに、女性エンジニアによるキャリアや技術に関するトークセッションや、DE&Iに関するパネルディスカッションを予定しています。
+
+
+### Qiita Conference
+
+https://increments.connpass.com/event/294310/
+
+* 初開催：
+* 主催：Qiita株式会社
+
+> Qiita Conferenceは、日本最大級*のエンジニアコミュニティ「Qiita」が開催するオンライン技術カンファレンスです。
+
+### JJUG CCC
+
+https://ccc2023fall.java-users.jp/
+
+* 初開催：
+* 主催：日本Javaユーザグループ
+
+> JJUG CCCは日本最大のJavaコミュニティイベントです。
